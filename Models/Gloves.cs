@@ -15,6 +15,7 @@ namespace BoxShop.Models
         public string ImageUrl { get; set; }
         public string ImageThumbnailUrl { get; set; }
         public bool IsGlovesOfTheWeek { get; set; }
+        public bool IsInStock { get; set; }
 
 
     }

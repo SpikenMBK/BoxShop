@@ -31,5 +31,13 @@ namespace BoxShop.Controllers
             };
             return View(homeViewModel);
         }
+
+        public IActionResult Details(int id)
+        {
+            var gloves = _glovesRepository.GetGlovesById(id);
+            if (gloves == null)
+                return NotFound();
+            return View(gloves);
+        }
     }
 }

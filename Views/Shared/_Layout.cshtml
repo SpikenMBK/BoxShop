@@ -9,12 +9,24 @@
          
 </head>
 <body>
+    <nav class="navbar navbar-inverse nabar-fixed-top">
+        <div class="container">
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a asp-controller="Home" asp-action="Index" class="navbar-brand">BOXINGSHOP</a></li>
+                    <li><a asp-controller="Feedback" asp-action="Index" >Feedback</a></li>
+                    <partial name="_LoginPartial"/>
+                </ul>
+            </div>
+        </div>
+    </nav>
 
    <div class="container body_content">
        <div class="row">
        @RenderBody()
    </div>
        </div>
+    @RenderSection("Scripts", required: false)
 
 
 

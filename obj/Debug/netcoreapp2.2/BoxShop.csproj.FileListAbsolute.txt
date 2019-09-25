@@ -2,7 +2,6 @@ C:\Users\Lexicon\source\repos\BoxShop\BoxShop\bin\Debug\netcoreapp2.2\BoxShop.de
 C:\Users\Lexicon\source\repos\BoxShop\BoxShop\bin\Debug\netcoreapp2.2\BoxShop.runtimeconfig.json
 C:\Users\Lexicon\source\repos\BoxShop\BoxShop\bin\Debug\netcoreapp2.2\BoxShop.runtimeconfig.dev.json
 C:\Users\Lexicon\source\repos\BoxShop\BoxShop\bin\Debug\netcoreapp2.2\BoxShop.dll
-C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\BoxShop.csprojAssemblyReference.cache
 C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\BoxShop.csproj.CoreCompileInputs.cache
 C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\BoxShop.RazorAssemblyInfo.cache
 C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\BoxShop.RazorAssemblyInfo.cs
@@ -23,3 +22,17 @@ C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\BoxShop.Vi
 C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\BoxShop.csproj.CopyComplete
 C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_layout.g.cshtml.cs
 C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\BoxShop.csprojAssemblyReference.cache
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Views\Feedback\FeedbackComplete.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Views\Feedback\Index.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Lexicon\source\repos\BoxShop\BoxShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs

@@ -1,4 +1,4 @@
-﻿@model BoxShop.ViewModels.HomeViewModel
+﻿@model HomeViewModel
 
 
     <h2>@Model.Title</h2>
@@ -12,7 +12,8 @@
 
                     <h3 class="pull-right">@gloves.Price.ToString("c")</h3>
                     <h3>
-                    @gloves.Name
+                        <a asp-controller="Home" asp-action="Details"
+                           asp-route-id="@gloves.Id">@gloves.Name</a>
                     </h3>
                     <p>@gloves.ShortDescription</p>
                 </div>
